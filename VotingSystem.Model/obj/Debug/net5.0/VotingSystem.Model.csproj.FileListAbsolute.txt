@@ -1,0 +1,13 @@
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\bin\Debug\net5.0\VotingSystem.Model.deps.json
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\bin\Debug\net5.0\VotingSystem.Model.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\bin\Debug\net5.0\ref\VotingSystem.Model.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\bin\Debug\net5.0\VotingSystem.Model.pdb
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\bin\Debug\net5.0\VotingSystem.Model.xml
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\VotingSystem.Model.csprojAssemblyReference.cache
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\VotingSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\VotingSystem.Model.AssemblyInfoInputs.cache
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\VotingSystem.Model.AssemblyInfo.cs
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\VotingSystem.Model.csproj.CoreCompileInputs.cache
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\VotingSystem.Model.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\ref\VotingSystem.Model.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Model\obj\Debug\net5.0\VotingSystem.Model.pdb

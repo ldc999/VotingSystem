@@ -1,0 +1,12 @@
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\bin\Debug\net5.0\VotingSystem.Common.deps.json
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\bin\Debug\net5.0\VotingSystem.Common.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\bin\Debug\net5.0\ref\VotingSystem.Common.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\bin\Debug\net5.0\VotingSystem.Common.pdb
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\VotingSystem.Common.csprojAssemblyReference.cache
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\VotingSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\VotingSystem.Common.AssemblyInfoInputs.cache
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\VotingSystem.Common.AssemblyInfo.cs
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\VotingSystem.Common.csproj.CoreCompileInputs.cache
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\VotingSystem.Common.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\ref\VotingSystem.Common.dll
+E:\LDC\ProjectCode\VotingSystem\VotingSystem.Common\obj\Debug\net5.0\VotingSystem.Common.pdb

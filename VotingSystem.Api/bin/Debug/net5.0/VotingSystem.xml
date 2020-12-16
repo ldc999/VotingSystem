@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VotingSystem.Api</name>
+    </assembly>
+    <members>
+        <member name="M:VotingSystem.Api.Controllers.WeatherForecastController.GetTest(System.Int32)">
+            <summary>
+            测试自定义方法route
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="P:VotingSystem.Api.WeatherForecast.Date">
+            <summary>
+            日期
+            </summary>
+        </member>
+        <member name="P:VotingSystem.Api.WeatherForecast.TemperatureC">
+            <summary>
+            当前温度
+            </summary>
+        </member>
+    </members>
+</doc>
